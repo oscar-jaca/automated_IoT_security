@@ -60,6 +60,161 @@ informative:
     date: 
     seriesinfo:
       Web: https://datatracker.ietf.org/wg/ace/charter/
+  RFC 8576:
+    title: Internet of Things (IoT) Security: State of the Art and Challenges
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc8576/ 
+  draft-sarikaya-t2trg-sbootstrapping-07:
+    title: Secure IoT Bootstrapping: A Survey
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/draft-sarikaya-t2trg-sbootstrapping/ 
+  RFC 5247:
+    title: Extensible Authentication Protocol (EAP) Key Management Framework
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc5247/
+  RFC 4764:
+    title: The EAP-PSK Protocol: A Pre-Shared Key Extensible Authentication Protocol (EAP) Method
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc4764/
+  RFC 7252:
+    title: The Constrained Application Protocol (CoAP)
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc7252/  
+  draft-marin-ace-wg-coap-eap-06:
+    title: EAP-based Authentication Service for CoAP
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/draft-marin-ace-wg-coap-eap/
+  RFC 8520:
+    title: Manufacturer Usage Description Specification
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc8520/ 
+  ISO / IEC 19770-2 - 2015:
+    title: Information technology — IT asset management — Part 2 - Software identification tag
+    date: 
+    seriesinfo:
+      Web: https://www.iso.org/standard/65666.html
+  draft-ietf-sacm-coswid-13:
+    title: Concise Software Identification Tags
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/draft-ietf-sacm-coswid/  
+  RFC 7049:
+    title: Concise Binary Object Representation (CBOR)
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc7049/
+  RFC 8412:
+    title: Software Inventory Message and Attributes (SWIMA) for PA-TNC
+    date: 
+    seriesinfo:
+      Web:https://datatracker.ietf.org/doc/rfc8412/
+  RFC 8322:
+    title: Resource-Oriented Lightweight Information Exchange (ROLIE)
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc8322/
+  RFC 7970:
+    title: The Incident Object Description Exchange Format Version 2
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc7970/     
+  draft-ietf-mile-rolie-csirt-06:
+    title: Definition of ROLIE CSIRT Extension
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/draft-ietf-mile-rolie-csirt/   
+  draft-ietf-mile-rolie-vuln-03:
+    title: Definition of the ROLIE Vulnerability Extension
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/draft-ietf-mile-rolie-vuln/     
+  draft-ietf-sacm-rolie-softwaredescriptor-08:
+    title: Definition of the ROLIE Software Descriptor Extension
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/draft-ietf-sacm-rolie-softwaredescriptor/   
+  CVE:
+    title: Common Vulnerabilities and Exposures
+    date: 
+    seriesinfo:
+      Web: https://cve.mitre.org/about/index.html
+  TAXII:
+    title: Trusted Automated eXchange of Intelligence Information
+    date: 
+    seriesinfo:
+      Web: http://docs.oasis-open.org/cti/taxii/v2.0/cs01/taxii-v2.0-cs01.html 
+  CYBOX:
+    title: Cyber Observable Expression
+    date: 
+    seriesinfo:
+      Web: http://docs.oasis-open.org/cti/cybox/v2.1.1/cybox-v2.1.1-part01-overview.html 
+  draft-ietf-sacm-arch-04:
+    title: Security Automation and Continuous Monitoring (SACM) Architecture
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/draft-ietf-sacm-arch/
+  DAQ1:
+    title: Taming the IoT: Operationalized Testing to Secure Connected Devices
+    date: 
+    seriesinfo:
+      Web: https://www.researchgate.net/publication/325981922_Taming_the_IoT_Operationalized_Testing_to_Secure_Connected_Devices
+  DAQ2:
+    title: DAQ (Device Automated Qualification) framework for IoT devices based on faucet
+    date: 
+    seriesinfo:
+      Web: https://github.com/faucetsdn/daq
+  FAUCET:
+    title: FauceT - Open source SDN Controller for production networks
+    date: 
+    seriesinfo:
+      Web: https://faucet.nz/
+  OPENFLOW:
+    title: OpenFlow - enabling innovation in campus networks
+    date: 
+    seriesinfo:
+      Web: http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf
+  SUIT:
+    title: Software Updates for Internet of Things
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/wg/suit/about/
+  CVSS:
+    title: Common Vulnerability Scoring System
+    date: 
+    seriesinfo:
+      Web: https://www.first.org/cvss/
+  CWSS:
+    title: Common Weakness Scoring System
+    date: 
+    seriesinfo:
+      Web: https://cwe.mitre.org/cwss/cwss_v1.0.1.html
+  NIST1:
+    title: Openflow SDN Manifacturer Usage Description (MUD) Server implementation on OpenDaylight Nitrogen Release
+    date: 
+    seriesinfo:
+      Web: https://github.com/usnistgov/nist-mud
+  NIST2:
+    title: Securing Small-Business and Home Internet of Things (IoT) Devices. Mitigating Network-Based Attacks Using Manufacturer Usage Description (MUD).
+    date: 
+    seriesinfo:
+      Web: https://www.nccoe.nist.gov/sites/default/files/library/sp1800/iot-ddos-nist-sp1800-15-preliminary-draft-v2.pdf
+  RFC 8392:
+    title: CBOR Web Token (CWT)
+    date: 
+    seriesinfo:
+      Web: https://datatracker.ietf.org/doc/rfc8392/
+  automated_testing_methodology:
+    title: Extending MUD Profiles Through an Automated IoT Security Testing Methodology
+    date: 
+    seriesinfo:
+      Web: https://ieeexplore.ieee.org/abstract/document/8867876/
   RFC2119:
   
   
@@ -193,31 +348,31 @@ This section introduces the two protocols for automated IoT security that this d
 The underlying idea of the protocols is shown at a very high level in Figure 2. PASC is used initially when a device first joins the IoT system to adjust the system and device security settings. Then PAVA starts its operation monitoring potential vulnerabilities. If changes in security settings are required, those are then applied by means of PASC messages.
 
 ~~~~
-______________________________________________________________
-|                                         |                  |
-| IoT device         Controller         Router         Information 
-|                                         |               source        
-|                                         |                  |
-|    ++ PASC onboarding ++>               |                  |
-|                          <++PASC  device info     +++++    |
-|                                         |                  |
-|            Risk & privacy assessment    |                  |
-|                                         |                  |
-|     <+++++  PASC security config. +++++>|                  |
-|                                         |                  |
-|                                         |                  |
-|                                         |                  |
-|                                         |                  |
-|                                         |                  |
-|     +++ PAVA  log ++++++>               |                  |
-|         <++ PAVA active monitoring  ++> |                  |
-|                          <++ PAVA vulnerabilities +++++    | 
-|                                         |                  |
-|            Risk & privacy assessment    |                  |
-|                                         |                  |
-|     <+++++  PASC security config. +++++>|                  |
-|                                                            |
-| ____________________________________________________________
+______________________________________________________________________________
+|                                                   |                        |
+| IoT device                 Controller           Router                Information 
+|                                                   |                     source        
+|                                                   |                        |
+|    ++ PASC01: PASC onboarding ++>                 |                        |
+|                                   <++PASC02: PASC device info     +++++    |
+|                                                   |                        |
+|              PASC03: Risk & privacy assessment    |                        |
+|                                                   |                        |
+|    <++++++ PASC04: PASC security config. ++++++>  |                        |
+|                                                   |                        |
+|                                                   |                        |
+|                                                   |                        |
+|                                                   |                        |
+|                                                   |                        |
+|   +++++ PAVA01: PAVA  log ++++>                   |                        |
+|   <++++++++ PAVA02: PAVA active monitoring  ++++> |                        |
+|                                <+++++ PAVA03: PAVA vulnerabilities ++++++  | 
+|                                                   |                        |
+|             PAVA04: Risk & privacy assessment     |                        |
+|                                                   |                        |
+|   <++++++  PASC04: PASC security config. ++++++++>|                        |
+|                                                   |                        |
+| __________________________________________________|________________________|
 
 ~~~~
 {: #fig2 title="PASC and PAVA interactions."}
@@ -240,6 +395,30 @@ In certain IoT environments, a simple practical instantiation of PASC can be cre
 The Test Specification must therefore be a description of the expected behavior of the IoT device that can be used to adjust tests accordingly. For example, the specification should explicitly list any internal and external accesses the device needs to make, and/or clearly specify if there's an intentionally open server (e.g., HTTPS port exposed). This Thing description SHOULD come from Manufacturer Usage Description (MUD). Additionally the Test Specification needs to include the security policy of the environment the IoT devices are deployed within, for example additional tests to verify the exposed HTTPS server includes a non-vulnerable TLS 1.2 implementation with the desired cipher suites.
 
 Network Services modules on the SDN Controller provide for core network services (such as DHCP, DNS, NTP) and mediated access to external resources (e.g., cloud services). A set of "foundational tests" (e.g., DHCP timeouts) SHOULD be part of any Test Specification. The system can capture a packet trace for the individual device, which can be analyzed during the RISK ASSESSMENT as described in point 3 of section 3.1.
+
+### PASC01 message  {#sec4-1-1} 
+
+The main purpose of the PASC01 message is to obtain PASC_DEVICE_POSTURE information from the Device itself. In order to ensure that this information is only provided by legitimate devices, this message includes an authentication process as part of a security bootstrapping mechanism for device installation and commissioning [RFC 8576]. Based on [draft-sarikaya-t2trg-sbootstrapping-07], this process can be instantiated by different technologies. For example, the use of Extensible Authentication Protocol (EAP) [RFC 5247] offers a flexible approach allowing different authentication methods, such as EAP-PSK [RFC 4764], which represents a lightweight alternative based on symmetric cryptography. For the transport of EAP messages, a lower layer EAP protocol is required. In order to minimize network overload and limit the load on end devices, CoAP [RFC 7252] can be considered [draft-marin-ace-wg-coap-eap-06].
+Once the device is authenticated, the Controller can obtain information on the intended behavior of the Device by using the recent Manufacturer Usage Description [RFC 8520]. MUD relies on the specification of access control lists (ACLs) to define the communications allowed and denied from/to a certain device. These ACLs are included in a MUD file, which is obtained through a MUD URL to specify where the file is stored. The process of obtaining the MUD URL should be linked to the previous authentication process. For example, the MUD URL could be included in a certificate through an X.509 extension, or obtained through an Authentication, Authorization and Accounting (AAA) infrastructure. Additionally, the Device can provide information about the software installed using Software Identification Tags (SWID tags) [ISO / IEC 19770-2 - 2015] or through a more lightweight version called Concise Software Identification Tags (CoSWID) [draft-ietf-sacm-coswid-13], which is based on the Concise Binary Object Representation CBOR standard [RFC 7049]. This information can be shared through the SWIMA standard to a central entity (e.g., a Posture Collection Service that stores such data into a Configuration Management Database (CMDB) [RFC 8412]), so that it can be accessible by other entities. Moreover, in addition to the MUD URL, the Device can provide additional references to repositories where the driver can obtain information about vulnerabilities or test results associated with such Device. These references prevent the sending of a large amount of information between the Device and the Controller, and must be associated with the bootstrapping process in order to avoid forged references from can be used.
+
+### PASC02 message  {#sec4-1-2} 
+
+After posture information is obtained from the Device itself, the Controller uses additional sources to increase the data composing the PASC_DEVICE_POSTURE. In this case, a non-constrained network is assumed between the Controller and the different services or repositories where this information is obtained. The Controller can communicate with these services through a Posture Collection Server entity based on [RFC 8412], so the obtained information could be stored in a Repository/CMDB.
+The initial step of this process is to obtain the MUD file using the MUD URL that was obtained during the PASC01 message. The controller can delegate on the MUD Manager the request of the MUD file from the MUD Server using HTTPS. Then, the controller can request the Posture Collection Service to add the MUD file to the local repository. It is worth noting that previous parsing of the MUD can be done before it is added to the local repository. It should be noted that the information contained in the MUD file MAY include references (e.g., through URIs) to other services or repositories (e.g., a vulnerability database) defined in a MUD extension ([RFC 8520], Section 3.9). References to external services and repositories obtained in this step, or during PASC01 exchange, are used to access additional information that can be used as PASC_DEVICE_POSTURE. 
+For the transport of this data, an expressive and extensible approach is required to embed different formats and representations for security vulnerabilities, security certificates, incidents or checklists.  In this direction, one of the main options is represented by the use of the Resource-Oriented Lightweight Information Exchange (ROLIE) [RFC 8322] protocol, which can be used to create an information sharing infrastructure using a REST architecture. ROLIE may use different data formats to represent security information such as incidents or vulnerabilities. For example, the Incident Object Description Exchange Format (IODEF) [RFC 7970] defines a data model for the exchange of information on indicators and security incidents. Other examples are the use of Structured Threat Information eXpression (STIX) and the Format Malware Information Sharing Platform (MISP) Format. These three formats are proposed in [draft-ietf-mile-rolie-csirt-06] to support Computer Security Incident Response Team (CSIRT) use cases by extending ROLIE with new information types. Other extensions are proposed in [draft-ietf-mile-rolie-vuln-03] and [draft-ietf-sacm-rolie-softwaredescriptor-08] to support the transport of the Common Vulnerability Enumeration (CVE) format [CVE] and SWID / CoSWID tags, respectively. 
+An alternative to the use of ROLIE is represented by the Trusted Automated Exchange of Intelligence Information (TAXII) standard [TAXII], which provides a sharing model based on HTTPS. TAXII defines a publish/subscribe model that facilitates asynchronous information sharing. This protocol already considers the integration with different data models, such as STIX, IODEF, or Cybox [CYBOX].
+All this information, together the data obtained in PASC01, compose the PASC_DEVICE_POSTURE, which is stored in the corresponding Repository/CMDB. This way, PASC_DEVICE_POSTURE embraces Device’s information from different sources, and it can be used by other entities for automating risk or vulnerability assessment processes, as well as for monitoring or analytic purposes.
+
+### PASC03 message  {#sec4-1-3} 
+
+The information composing the PASC_DEVICE_POSTURE is used for automating the POSTURE ASSESSMENT process for the newly deployed Device. Following the draft of the SACM architecture [draft-ietf-sacm-arch-04], an entity Posture Evaluation Service can be in charge of obtaining the PASC_DEVICE_POSTURE previously stored in the CMDB. The communication with the CMDB could be through the Posture Collection Service. The information contained in the PASC_DEVICE_POSTURE could also include data generated from a previous testing process (e.g., it could be executed during the manufacturing). In turn, the information in the PASC_DEVICE_POSTURE could be used to create a test set accordingly. For example, a series of tests could be generated to check if the restrictions included in the MUD file are actually fulfilled by the device after being deployed. 
+Toward this end, the Device Automated Qualification (DAQ) [DAQ1][DAQ2]could be used to create and perform different security tests over a certain IoT device. DAQ follows a similar architecture to Faucet SDN [FAUCET] by using the OpenFlow standard [OPENFLOW]. It covers security aspects at different levels of the protocol stack, such as networking (e.g., port scanning), core services (e.g., DHCP or DNS) or device management aspects, such as firmware updates [SUIT]. Then, the information of these tests could be used together PASC_DEVICE_POSTURE information previously obtained to carry out the corresponding POSTURE ASSESSMENT process. For this, the Posture Evaluation Service will use a DOMAIN_POLICY associated to the expected behavior in the domain where the Device has been installed. This policy can be stored in a Policy Repository [draft-ietf-sacm-arch-04]. To represent such policy, different languages can be considered. For example, the Extensible Configuration Checklist Description Format (XCCDF) defines security configuration rules to express security checklists and additional configuration guidance. This way, the information contained in the PASC_DEVICE_POSTURE and test results are compared with the DOMAIN_POLICY to check the conformance with the security requirements defined in the domain. 
+In addition, the POSTURE_ASSESSMENT process could also require the application of scoring systems, in order to quantify the risk associated to a vulnerability or misconfiguration. For this, the use of well-known approaches, such as the Common Vulnerability Scoring System (CVSS) [] or Common Weakness Scoring System (CWSS) [] could be considered.
+
+### PASC04 message  {#sec4-1-4} 
+
+The results derived from the POSTURE_ASSESSMENT process are stored in the Evaluation Results Repository [draft-ietf-sacm-arch-04]. Based on such results, an automated set of countermeasures is generated. For example, if the MUD file specified “the communication with http://service.org is allowed”, and this service is considered as a malicious entity by the DAOMIN_POLICY, a routing rule can be generated accordingly. This way, the communication between the Device and that service is denied at routing level. In this direction, the DAQ approach can be considered to influence routing flows in the corresponding routers or switches in the domain. Indeed, DAQ follows a SDN approach by the use of the OpenFlow standard. The use of SDN is largely considered to be used to restrict interactions at network level, such as the restrictions defined in MUD files[NIST1][NIST2].
+However, additional restrictions could be considered at application layer. For instance, the Device could be only allowed to access some resources hosted at http://service.org. In this case, the use of network level countermeasures is not enough. To address these more fine-grained restriction, the use of authorization credentials could be considered by following the recent CBOR Web Token standard [RFC 8392]. It should be noted that application layer restrictions could require the extension of current standards (e.g., MUD), or additional testing/assessment procedures, such as based on the work proposed in [automated_testing_methodology].  
 
 ## Protocol for Automatic Vulnerability Assessment (PAVA) {#sec4-2}
 
